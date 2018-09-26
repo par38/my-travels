@@ -15,6 +15,7 @@ class App extends Component {
           destination="San Francisco"
           country="USA - California"
           photo="https://farm8.staticflickr.com/7262/7461778274_f7bff1f106.jpg" alt="San Francisco"
+          distance="11 h d'avion"
         />
         <Travel 
           destination="Amsterdam"
